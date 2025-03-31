@@ -24,6 +24,10 @@ src="https://img.shields.io/twitch/status/npterra?logo=twitchsx&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NpTerra" align="center"><img src="https://github-readme-stats.vercel.app/api?username=NpTerra&show_icons=true&theme=catppuccin_mocha" alt="NpTerra's GitHub stats" /></a>
+<a href="http://www.github.com/NpTerra">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NpTerra&show_icons=true&theme=catppuccin_mocha" alt="NpTerra's GitHub stats" />
+</a>
 
-<a href="https://github.com/NpTerra" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NpTerra&langs_count=5&layout=compact&theme=catppuccin_mocha&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/NpTerra">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NpTerra&langs_count=5&layout=compact&theme=catppuccin_mocha&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
