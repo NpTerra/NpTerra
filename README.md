@@ -4,9 +4,9 @@
 A guy who studies Computer Science Engineering.
 
 * 🌍  I'm based in Budapest
-* 🤝  I'm open to collaborating on challenging and interesting short-term projects.
-* 🎯  I'm interested in low-level and graphics programming.
-* 🎓  Currently studying at Budapest University of Technology and Economics.
+* 🤝  Open to collaborating on challenging and interesting short-term projects.
+* 🎯  Interested in low-level and graphics programming.
+* 🎓  CSE undergrad at Budapest University of Technology and Economics.
 
 #
 
